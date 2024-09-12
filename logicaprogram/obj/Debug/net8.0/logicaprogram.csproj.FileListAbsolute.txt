@@ -1,0 +1,15 @@
+/workspaces/estudos-logica-com-C-/logicaprogram/bin/Debug/net8.0/logicaprogram
+/workspaces/estudos-logica-com-C-/logicaprogram/bin/Debug/net8.0/logicaprogram.deps.json
+/workspaces/estudos-logica-com-C-/logicaprogram/bin/Debug/net8.0/logicaprogram.runtimeconfig.json
+/workspaces/estudos-logica-com-C-/logicaprogram/bin/Debug/net8.0/logicaprogram.dll
+/workspaces/estudos-logica-com-C-/logicaprogram/bin/Debug/net8.0/logicaprogram.pdb
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/logicaprogram.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/logicaprogram.AssemblyInfoInputs.cache
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/logicaprogram.AssemblyInfo.cs
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/logicaprogram.csproj.CoreCompileInputs.cache
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/logicaprogram.sourcelink.json
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/logicaprogram.dll
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/refint/logicaprogram.dll
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/logicaprogram.pdb
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/logicaprogram.genruntimeconfig.cache
+/workspaces/estudos-logica-com-C-/logicaprogram/obj/Debug/net8.0/ref/logicaprogram.dll
