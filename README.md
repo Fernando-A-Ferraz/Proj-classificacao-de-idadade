@@ -1,2 +1,2 @@
-# estudos-logica-com-C-
+# estudos-logica
 Repositório de estudos de lógica de programação em C#
